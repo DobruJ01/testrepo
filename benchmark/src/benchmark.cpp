@@ -18,6 +18,7 @@ void testTernary();
 void testPointers();
 
 int main() {
+	for(int i=9;i<12;++i);
 	std::string names[5] = {""," Thousand"," Million"," Billion"," Trillion"};
 	int num = TESTLEN;
 	int name = 0;
